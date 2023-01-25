@@ -15,7 +15,6 @@ Yatube - социальная сеть для блогеров.
 
 ``` 
 git clone https://github.com/AlexDjum/api_final_yatube
-
 ``` 
 
 ``` 
@@ -36,7 +35,6 @@ source venv/scripts/activate
 
 ``` 
 python -m pip install --upgrade pip 
-
 ``` 
 ``` 
 pip install -r requirements.txt 
